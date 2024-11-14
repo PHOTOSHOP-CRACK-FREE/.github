@@ -1,4 +1,4 @@
- Adobe Photoshop for Mac 2024 v. 25.7.0
+ Adobe Photoshop 2024 v. 25.7.0
 
 
 <div id="badges">
